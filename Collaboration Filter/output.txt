@@ -1,0 +1,27 @@
+Marc by Marc Jacobs      0.586971
+Christian Louboutin      0.510516
+Victoria's Secret        0.504936
+Prada                    0.497796
+Burberry                 0.479713
+Steve Madden             0.467764
+Juicy Couture            0.463189
+Forever 21               0.444402
+Diane von Furstenberg    0.401180
+MICHAEL Michael Kors     0.391208
+Name: Related Ranking
+
+
+Victoria's Secret       0.036682
+Marc by Marc Jacobs     0.033954
+Steve Madden            0.033641
+Forever 21              0.033495
+Juicy Couture           0.031437
+GUESS                   0.031077
+MICHAEL Michael Kors    0.030759
+Christian Louboutin     0.029717
+Prada                   0.029544
+Burberry                0.026168
+Name: Weighted Ranking
+
+
+25.2819919586 seconds

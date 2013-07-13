@@ -1,0 +1,46 @@
+shopping_profile_id;brand_id;name
+1;51;BCBG MAX AZRIA
+1;379;Marc by Marc Jacobs
+1;552;Steve Madden
+1;2333;Forever 21
+1;2335;Victoria's Secret
+1;4089;Aldo
+1;4484;Newport News
+2;51;BCBG MAX AZRIA
+2;379;Marc by Marc Jacobs
+2;552;Steve Madden
+2;1674;Miu Miu
+2;1688;Moschino
+2;2333;Forever 21
+2;3650;Mayle
+2;4089;Aldo
+2;4296;McQ by Alexander McQueen
+2;4484;Newport News
+5;783;Be & D
+5;909;Carolina Herrera
+5;1052;Derek Lam
+5;1138;Erickson Beamon
+5;1147;Eugenia Kim
+5;2676;Dries Van Noten
+7;171;Diane von Furstenberg
+7;321;Kenneth Cole
+7;959;Christian Louboutin
+9;3193;Proenza Schouler
+10;959;Christian Louboutin
+11;131;Citizens of Humanity
+11;171;Diane von Furstenberg
+11;194;Ella Moss
+11;253;Hanky Panky
+11;292;Jessica Simpson
+11;309;Juicy Couture
+11;379;Marc by Marc Jacobs
+11;421;Nicole Miller
+11;422;Nike
+11;424;Nine West
+11;491;Rock & Republic
+11;713;Andrew Marc New York
+11;834;Bobbi Brown
+11;870;Burberry
+11;936;Chanel
+11;957;Christian Dior
+11;959;Christian Louboutin
